@@ -14,4 +14,5 @@ public class Picador extends Empleado{
         System.out.println("Estoy picando piedra");
     }
 
+
 }

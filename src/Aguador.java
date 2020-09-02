@@ -12,4 +12,8 @@ public class Aguador extends Empleado {
     public void aguando(){
         System.out.println("Estoy echando agua");
     }
+
+    public void vacaciones(){
+        System.out.println("No tienes vacaciones");
+    }
 }

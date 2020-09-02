@@ -2,6 +2,7 @@ public abstract class Empleado {
 
     private int vacaciones;
 
+
     public Empleado(int vacaciones){
         this.vacaciones = vacaciones;
     }
